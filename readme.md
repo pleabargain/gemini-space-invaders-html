@@ -1,3 +1,16 @@
+# repo
+https://github.com/pleabargain/gemini-space-invaders-html
+
+Built on https://aistudio.google.com/ with this prompt 
+
+```
+
+using vanilla javascript
+write a space invaders clone
+complete with audio effects
+
+```
+
 # Vanilla JavaScript Space Invaders Clone
 
 A simple clone of the classic arcade game Space Invaders, built entirely with vanilla JavaScript, HTML5 Canvas, and CSS. This project demonstrates core game development concepts like the game loop, rendering, collision detection, input handling, and basic audio integration without relying on external libraries or frameworks.
